@@ -1,0 +1,4 @@
+Para la preparación de la sesión 2 de Computación Gráfica, consulté la página de Wikipedia enviada por el docente, el video "https://youtu.be/Uxu-51ZxNxE" 
+acerca de coordenadas rectangulares en tres dimensiones gracias a que este es un sistema de referencia muy utilizado en computación gráfica, material de apoyo
+que me brindó la docente Sandra Bello en Cálculo Vectorial del semestre pasado acerca de coordenadas cilíndricas, polares y esféricas, y el video
+"https://youtu.be/W0NiGCpvCPs" en el que se mencionan algunas conversiones de un sistema de coordenadas a otro.
